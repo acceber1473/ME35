@@ -1,5 +1,9 @@
 
-// SET VARIABLES FOR THE MAX AND MIN OF EACH PLANT SO ITS MUCH EASIER LATER 
+// WIO Plant Monitor
+// ME35 Spring '21 WIO Assignment
+// Script by Rebecca Shen 
+// Last modified: January 31st, 2021
+// Just load onto WIO and run!
 
 #include"TFT_eSPI.h"
 #include <DHT.h>
