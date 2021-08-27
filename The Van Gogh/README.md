@@ -1,5 +1,5 @@
 # The Van Gogh- a letter C drawing machine
-The Van Gogh is a LEGO SPIKE Prime + WIO Terminal robotic arm that learns how to draw the letter C and mimics it both using a pen and paper and graphically on the WIO terminal in real time, serving as a digital twin. The SPIKE code was able to mimic a letter C by storing relative motor degree positions from manually moving the arm in a C motion. Forward kinematics was then utilized in order to translate those motions into (x,y) coordinates for the digital C.
+The Van Gogh is a LEGO SPIKE Prime + WIO Terminal robotic two-arm mechanism that learns how to draw the letter C and mimics it both using a pen and paper and graphically on the WIO terminal in real time. The SPIKE code was able to mimic a letter C by storing relative motor degree positions from manually moving the arm in a C motion. Forward kinematics was then utilized in order to translate those motions into (x,y) coordinates for the digital C.
 
 ## Video
 [Link to a short video is here!](https://youtu.be/Jc2lUiwzByM)
