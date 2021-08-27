@@ -6,6 +6,7 @@ Jumbo Space Invaders is a video game based on Space Runs with a WIO Terminal + L
 
 ## User Interface 
 #### Physical Setup
+<img align = "center" alt = "setup" src="https://user-images.githubusercontent.com/49819466/131177263-6ab0c581-160b-4760-8c5f-ef22eedacf3d.jpg" width=50% height=50%>
 
 #### Level One: Green aliens that descend along with larger UFO targets
 <img align="center" alt="Screen Shot 2021-08-27 at 2 59 06 PM" src="https://user-images.githubusercontent.com/49819466/131176141-4e606920-0bd7-4e99-9c3f-d99c82531991.png" width=50% height=50%>
