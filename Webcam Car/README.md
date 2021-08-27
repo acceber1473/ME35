@@ -1,6 +1,8 @@
 # LEGO SPIKE Prime Webcam Car
 A LEGO SPIKE Prime car with Raspberry Pi + Pi camera that displays a live video feed online as well as can be controlled via a HTML interface. The SPIKE car communicates to the Raspberry Pi via a UART serial connection.
 
+** will upload rpi code soon!
+
 ## Video
 [Link to short clip is here!](https://youtu.be/a9UquH4Hr_A)
 
