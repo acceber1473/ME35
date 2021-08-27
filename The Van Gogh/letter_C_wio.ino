@@ -1,5 +1,6 @@
 // THIS DISPLAYS MOTOR DEGREES ON THE WIO //
-// TERMINAL CODE: 
+// Last modified: February 25th, 2021
+// Written by: Rebecca Shen 
 
 #include"TFT_eSPI.h"
 TFT_eSPI tft;
