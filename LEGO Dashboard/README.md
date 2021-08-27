@@ -1,8 +1,9 @@
 # LEGO SPIKE Prime Dashboard 
 This dashboard uses the SPIKE hub and motors, Raspberry Pi, and WIO Terminal to display current weather temperature, time, and a quotes from a Kanye West API. It is connected to a Raspberry Pi via UART serial communication and utilizes REST APIs to retrieve current weather and time information, which is then visually shown through motor displays on the SPIKE. The WIO Terminal is separately powered through a portable battery and calls a Kanye West API to display various Kanye quotes on the screen. 
+** will upload the rpi code soon!
 
 ## Video
-[Link to a short clip is here!]()
+[Link to a short clip is here!](https://youtu.be/giP2kxmUGWs)
 
 ## Setup
 
