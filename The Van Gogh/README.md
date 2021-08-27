@@ -5,5 +5,5 @@ The Van Gogh is a LEGO SPIKE Prime + WIO Terminal robotic arm that learns how to
 [Link to a short video is here!](https://youtu.be/Jc2lUiwzByM)
 
 ## Setup
-<img align = "center" alt="Screen Shot 2021-08-27 at 3 15 00 PM" src="https://user-images.githubusercontent.com/49819466/131177761-6fe2ac6a-6384-4f3c-9847-91b51895ff1f.png" height=50% width=50%>
+<img align = "center" alt="Screen Shot 2021-08-27 at 3 15 00 PM" src="https://user-images.githubusercontent.com/49819466/131177761-6fe2ac6a-6384-4f3c-9847-91b51895ff1f.png">
 
