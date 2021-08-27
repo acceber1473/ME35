@@ -1,3 +1,6 @@
+# Rebecca Shen, Sergio Roman
+# Crazy Races SPIKE Code 
+# Last modified February 15th, 2021
 import hub,utime
 import math
 
