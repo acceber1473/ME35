@@ -1,6 +1,8 @@
 # Smart Teleprompter
 For the midterm assignment, I built an automated LEGO SPIKE Prime system holding the WIO terminal so that the screen always faces the user as they move their face around while displaying scrolling text the user can read out loud. The facial recognition was achieve through implementing a OpenCV Haar Cascade Classifier on the Raspberry Pi camera and the teleprompter rotates to keep the face in the center of the camera using a proportional controller. Another proportional controller was implemented to control the font size of the scrolling WIO screen text by measuring the area of the identified face. Raspberry Pi commmunicated to the SPIKE Prime via UART serial connections and SPIKE then communicated to the WIO in the same way.
 
+** RPI code will be added soon!
+
 ## Video
 [Video of my teleprompter here!](https://youtu.be/RCjvoCnkEyo)
 
