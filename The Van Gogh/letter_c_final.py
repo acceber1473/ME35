@@ -1,3 +1,8 @@
+# SPIKE Code for the Letter C 
+# ME35 Spring '21
+# Rebecca Shen and Maura McCormick
+# Last modified: February 21st, 2021
+
 import hub, utime
 import math 
 
