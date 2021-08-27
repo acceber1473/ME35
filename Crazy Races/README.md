@@ -5,5 +5,6 @@ The Crazy Line Races assignment involved building and programming a line followi
 [Link to a short clip is here!](https://youtu.be/E4yLEQxejY8)
 
 ## Setup
-<image align = "center" src = "https://user-images.githubusercontent.com/49819466/131185238-e3ae6134-721c-46a5-8fb4-f816f66047bb.jpg" heigh=50% width=50%>
+![IMG_1026](https://user-images.githubusercontent.com/49819466/131185342-95e9e017-6a18-45b3-8713-e9fe72ce4e5c.jpg)
+
 
